@@ -1,9 +1,10 @@
 # 💫 About Me:
-Experienced Software Engineer and ML Researcher focusing on **recommendation systems**, **session-based modeling**, and **meta-learning**. My work spans building intelligent systems, designing scalable architectures, and developing end-to-end ML pipelines.
+Experienced Software Engineer and ML Researcher focusing on **recommendation systems**, **session-based modeling**, and **meta-learning**. My work spans building intelligent systems, designing scalable architectures, and developing end-to-end ML pipelines. I specialize in **API-driven platforms**, **data engineering**, and **cloud-native solutions**, backed by solid experience in **Java**, **PHP/Laravel**, **Node.js**, and **Python** for ML experimentation.
 
-🔧 I specialize in **API-driven platforms**, **data engineering**, and **cloud-native solutions**, backed by solid experience in **Java**, **PHP/Laravel**, **Node.js**, and **Python** for ML experimentation.
 📊 My current research involves **cold-start adaptation**, **user-behavior modeling**, and **meta-learning frameworks** for real-world recommender systems.
 
+🏆 I am an **AWS Certified Solutions Architect – Associate**  
+🔗 [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/8eca083ed6f14477bf3ec11c65af7163)
 
 
 ## 🌐 Socials:
