@@ -3,6 +3,8 @@ Experienced Software Engineer and ML Researcher focusing on **recommendation sys
 
 📊 My current research involves **cold-start adaptation**, **user-behavior modeling**, and **meta-learning frameworks** for real-world recommender systems.
 
+🤖 I build **agentic AI systems** on the **Model Context Protocol (MCP)**: designing multi-agent architectures where specialist agents share a single tool server while each sees only the tools it needs. I develop **MCP servers with FastMCP** and connect them to agents using **LangGraph** and **LangChain**, then containerize and deploy them as cloud-native services.
+
 🏆 I am an **AWS Certified Solutions Architect – Associate**  
 🔗 [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/8eca083ed6f14477bf3ec11c65af7163)
 
@@ -13,6 +15,11 @@ Experienced Software Engineer and ML Researcher focusing on **recommendation sys
 
 # 💻 Tech Stack:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
